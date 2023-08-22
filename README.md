@@ -1,17 +1,17 @@
-# Análisis de datos y predicción de precios de juegos de Steam
+# Análisis de Datos, API y Predicción de Precios de Juegos de Steam
 
 ![Precios por fechas](./image/steam.png)
 
 # Índice
 
-1. [Análisis de datos y predicción de precios de juegos de Steam](#an%C3%A1lisis-de-datos-y-predicci%C3%B3n-de-precios-de-juegos-de-steam)
+1. [Análisis de Datos, API y Predicción de Precios de Juegos de Steam](#an%C3%A1lisis-de-datos-y-predicci%C3%B3n-de-precios-de-juegos-de-steam)
 2. [Requisitos](#requisitos)
 3. [Modo de uso](#modo-de-uso)
 4. [Notas](#notas)
 5. [Contacto](#contacto)
 6. [Tecnologías utilizadas](#tecnolog%C3%ADas-utilizadas)
 
-Este repositorio contiene un conjunto de funciones y un modelo de regresión lineal para analizar datos y predecir precios de juegos de la plataforma Steam. El análisis de datos se realiza a través de una API REST creada con FastAPI.
+Este repositorio contiene un conjunto de funciones y un modelo de regresión lineal para analizar datos y predecir precios de juegos de la plataforma Steam. Además, incluye la creación de una API REST utilizando FastAPI para acceder a los resultados del análisis y a las predicciones del modelo. El análisis de datos, la construcción de la API y la implementación del modelo se llevan a cabo en un entorno Render.
 
 ## Requisitos
 
