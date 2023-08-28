@@ -74,10 +74,6 @@ Una vez que se han procesado y validado las características proporcionadas por 
 
 Finalmente, el modelo de regresión lineal realiza la predicción del precio del juego basado en estas características procesadas y devuelve el valor estimado como resultado. Es importante tener en cuenta que la precisión de la predicción puede depender de la calidad y representatividad de los datos de entrenamiento y de la correlación de las características proporcionadas con los precios reales de los juegos en el conjunto de entrenamiento.
 
-# Análisis de datos y predicción de precios de juegos de Steam
-
-Este repositorio contiene un conjunto de funciones y un modelo de regresión lineal para analizar datos y predecir precios de juegos de la plataforma Steam. El análisis de datos se realiza a través de una API REST creada con FastAPI.
-
 ## Contacto
 
 ### Claudia Caceres
